@@ -22,4 +22,4 @@
 
 ## The portfolio section lists the projects that I completed (as well as the technologies that I used).
 
-![photo_2021-09-28 01 05 13](https://user-images.githubusercontent.com/30218257/134996872-df7ca4f0-fc08-4ec2-8ad0-1e9814e8d85d.jpeg)
+![qUVZakSFNMU](https://user-images.githubusercontent.com/30218257/145288232-8e8f9501-851c-4f6f-9ac8-04303591fbc3.jpeg)
